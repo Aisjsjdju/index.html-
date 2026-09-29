@@ -1,0 +1,8 @@
+{
+  "name": "Wanderly - Premium Cinematic Travel",
+  "description": "A cinematic travel website featuring an animated video hero, bespoke journeys, and premium glassmorphism design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
